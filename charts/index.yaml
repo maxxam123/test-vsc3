@@ -3,12 +3,12 @@ entries:
   max2-chart:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-04-30T08:54:42.7296695-07:00"
+    created: "2024-04-30T09:14:25.1038681-07:00"
     description: A Helm chart for Kubernetes
-    digest: 7fc7877baa220f64fab7aba035a21eef0830a1f5ccc4bd8d8b6137e009f6a778
+    digest: 558e6b6304d10a93b99d5a9e34bb9fe287fb94d8b6ae4bad83da3b0c4515834a
     name: max2-chart
     type: application
     urls:
     - max2-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-04-30T08:54:42.7285835-07:00"
+generated: "2024-04-30T09:14:25.1038681-07:00"
